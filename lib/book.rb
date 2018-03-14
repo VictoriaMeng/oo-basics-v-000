@@ -5,5 +5,4 @@ class Book
     @title = title
   end
 
-  def proper
 end
